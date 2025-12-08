@@ -15,4 +15,3 @@ The app also provides **JSON API endpoints** for both collections.
 - **Mongoose** for schema modeling  
 - **Pug** as the template engine  
 - **Custom CSS** (responsive admin layout)  
-- **Render** for deployment  
